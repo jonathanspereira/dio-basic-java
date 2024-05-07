@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 - for/01 - for.iml" filepath="$PROJECT_DIR$/01 - for/01 - for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - for-em-array/02 - for-em-array.iml" filepath="$PROJECT_DIR$/02 - for-em-array/02 - for-em-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/03 - Estruturas de repetição em java.iml" filepath="$PROJECT_DIR$/.idea/03 - Estruturas de repetição em java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - break e continue/03 - break e continue.iml" filepath="$PROJECT_DIR$/03 - break e continue/03 - break e continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - while/04 - while.iml" filepath="$PROJECT_DIR$/04 - while/04 - while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - do-while/05 - do-while.iml" filepath="$PROJECT_DIR$/05 - do-while/05 - do-while.iml" />
+    </modules>
+  </component>
+</project>
