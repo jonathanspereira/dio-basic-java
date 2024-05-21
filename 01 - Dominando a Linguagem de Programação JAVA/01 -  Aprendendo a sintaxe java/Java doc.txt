@@ -1,0 +1,11 @@
+Java doc
+
+criando a documentação no formato html para disponibilizar via web:
+
+executar comando via terminal:
+
+comando para linux:
+javadoc -encoding UTF-8 -docencoding UTF-8 -d ../docs $(find src -type f -name "*.java")
+
+
+

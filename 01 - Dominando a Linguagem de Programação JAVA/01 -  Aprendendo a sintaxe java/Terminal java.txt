@@ -1,0 +1,10 @@
+Terminal - java
+
+***executar a classe do arquivo java no terminal do linux:
+
+java --enable-preview -cp . "nome da classe"
+
+** obs: executar o camando dentro pasta que contenha o arquivo .java
+
+----------------------------
+

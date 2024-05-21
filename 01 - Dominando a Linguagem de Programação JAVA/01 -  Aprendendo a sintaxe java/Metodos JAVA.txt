@@ -1,0 +1,29 @@
+Métodos JAVA
+
+São funções dentro de uma classe.
+
+-deve ser nomeado como verbo
+-seguir o padrão camelCase
+
+
+qual a proposta principal do metodo?
+
+qual o tipo de retorno esperado após executaro metodo?
+
+quais os parametros serao necessarios para execução do metodo?
+
+o metodo possui o risco de apresentar alguma exceção?
+
+qual a visibilidade do metodo?
+
+tipos de metodos:
+public - esta visivel para outras classes
+
+private - não estara visivel para outras classes
+
+double - finalizar com return
+
+void - não precisa de return
+
+
+

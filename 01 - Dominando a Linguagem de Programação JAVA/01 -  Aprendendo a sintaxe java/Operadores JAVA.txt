@@ -1,0 +1,32 @@
+Operadores JAVA
+
+**aritméticos:
++ soma ou concatenação
+- subtração
+* multiplicação
+/ divisão
+
+**unários:
++ 
+- nega um valor
+++ incrementa o valor em 1 unidade
+-- decrementa o valor em 1 unidade
+! nega o valor
+
+**ternário:
+"?:
+
+**relacionais:
+== se uma variável é igual
+!= se uma variável é diferente
+> se é maior
+>= se é maior ou igual
+< se é menor
+<= se é menor ou igual
+
+**lógicos:
+&& e
+|| ou
+
+
+
